@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 < i m Abdullah Khan
-**abdullahkhan310/abdullahkhan310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**abdullahkhan310/GoogleEarthEngine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
